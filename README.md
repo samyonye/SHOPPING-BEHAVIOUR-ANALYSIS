@@ -1,11 +1,13 @@
 # SHOPPING-BEHAVIOUR-ANALYSIS
 
 Introduction
+
 This project focuses on analyzing customer shopping behaviour using Microsoft Excel as the primary analytical tool. The aim is to transform raw transaction data into meaningful insights that can guide business decisions, enhance customer understanding, and improve sales performance.
 
-In a competitive retail environment, understanding how customers interact with products — including what they buy, when they buy, and how they pay — is crucial. This study applies data analytics techniques within Excel to explore patterns such as top-selling items, preferred payment methods, and seasonal trends in purchasing.
+In a competitive retail environment, understanding how customers interact with products  including what they buy, when they buy, and how they pay  is crucial. This study applies data analytics techniques within Excel to explore patterns such as top selling items, preferred payment methods, and seasonal trends in purchasing.
 
 Story of the Data
+
 It contains customer transaction records covering different product categories, purchase amounts, demographics, and payment preferences. Each record represents a single purchase and includes variables such as:
 
 Customer ID
@@ -16,9 +18,10 @@ Payment Method
 Season (Spring, Summer, Fall, Winter)
 Customer Rating (1–5)
 Shipping Type
-The data tells the story of diverse shopping patterns influenced by customer demographics, product type, and seasonality. It represents real-world retail behaviour, making it suitable for trend analysis and business insight generation.
+The data tells the story of diverse shopping patterns influenced by customer demographics, product type, and seasonality. It represents real world retail behaviour, making it suitable for trend analysis and business insight generation.
 
 Data Splitting and Preprocessing
+
 Before analysis, the dataset underwent several cleaning and preparation steps to ensure accuracy and reliability.
 
 a. Splitting and Organization
@@ -42,6 +45,7 @@ Excel’s Data Validation for controlled entries
 
 
  Pre-Analysis
+ 
 This stage involved understanding the dataset’s structure and performing exploratory checks to identify potential relationships between variables.
 
 Potential Analysis/Question
@@ -65,6 +69,7 @@ Potential Analysis/Question
  
 
 Potential Insight
+
 
 1.Middle-aged customers form the largest buyer group.
 
@@ -93,6 +98,7 @@ Potential Insight
  
 
  In-Analysis
+ 
 The in-depth analysis focused on identifying meaningful patterns within the data.
 
 
@@ -139,6 +145,7 @@ Middle-aged adults are the most valuable customer segment, contributing the high
  
 
 Post-Analysis and Insight
+
 After computations and charting, insights were extracted to help interpret business implications:
 
 Middle-aged customers represent the most profitable demographic segment.
@@ -150,6 +157,7 @@ Standard shipping is more popular, implying customers prefer affordable options 
  
 
 Recommendation and Observation
+
 Recommendations:
 1. Target marketing efforts toward middle-aged and loyal customers.
 
@@ -162,6 +170,7 @@ Recommendations:
 6. Strengthen preferred payment options and introduce alternative methods for flexibility.
 
 Observations:
+
 1. Middle-aged and male customers are the dominant shoppers.
 
 2. Clothing is the top-selling category, while outerwear and footwear are seasonal.
@@ -175,6 +184,7 @@ Observations:
 6. Loyal and subscribed customers show stronger satisfaction and generate more value.
 
  Conclusion
+ 
 The Shopping Behaviour Analysis provided valuable insights into customer purchasing trends and preferences using only Excel.
 The project demonstrated that Excel can handle data preprocessing, analysis, and visualization effectively without external BI software.
 
