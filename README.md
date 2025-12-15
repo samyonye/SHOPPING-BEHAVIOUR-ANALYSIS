@@ -5,7 +5,7 @@ This project focuses on analyzing customer shopping behaviour using Microsoft Ex
 
 In a competitive retail environment, understanding how customers interact with products — including what they buy, when they buy, and how they pay — is crucial. This study applies data analytics techniques within Excel to explore patterns such as top-selling items, preferred payment methods, and seasonal trends in purchasing.
 
-2. Story of the Data
+Story of the Data
 It contains customer transaction records covering different product categories, purchase amounts, demographics, and payment preferences. Each record represents a single purchase and includes variables such as:
 
 Customer ID
@@ -18,7 +18,7 @@ Customer Rating (1–5)
 Shipping Type
 The data tells the story of diverse shopping patterns influenced by customer demographics, product type, and seasonality. It represents real-world retail behaviour, making it suitable for trend analysis and business insight generation.
 
-3. Data Splitting and Preprocessing
+Data Splitting and Preprocessing
 Before analysis, the dataset underwent several cleaning and preparation steps to ensure accuracy and reliability.
 
 a. Splitting and Organization
@@ -41,7 +41,7 @@ c. Tools and Functions Used:
 Excel’s Data Validation for controlled entries
 
 
-4. Pre-Analysis
+ Pre-Analysis
 This stage involved understanding the dataset’s structure and performing exploratory checks to identify potential relationships between variables.
 
 Potential Analysis/Question
@@ -92,7 +92,7 @@ Potential Insight
 
  
 
-5. In-Analysis
+ In-Analysis
 The in-depth analysis focused on identifying meaningful patterns within the data.
 
 
@@ -138,7 +138,7 @@ Middle-aged adults are the most valuable customer segment, contributing the high
 
  
 
-6. Post-Analysis and Insight
+Post-Analysis and Insight
 After computations and charting, insights were extracted to help interpret business implications:
 
 Middle-aged customers represent the most profitable demographic segment.
@@ -174,14 +174,14 @@ Observations:
 
 6. Loyal and subscribed customers show stronger satisfaction and generate more value.
 
-9. Conclusion
+ Conclusion
 The Shopping Behaviour Analysis provided valuable insights into customer purchasing trends and preferences using only Excel.
 The project demonstrated that Excel can handle data preprocessing, analysis, and visualization effectively without external BI software.
 
 Through careful preprocessing, structured analysis, and visualization, the data revealed actionable insights on customer segments, product demand, and payment habits. Businesses can use these insights to improve marketing strategies, optimize inventory, and enhance customer satisfaction.
 
  
-10. References and Appendices
+ References and Appendices
 References:
 
 Microsoft Excel Documentation (Data Analysis and Visualization Features)
